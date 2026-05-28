@@ -1,0 +1,34 @@
+body{
+	background-color: #000000;
+	font-family: ubuntu;
+	font-family: ubuntu;
+}
+h1{
+	background-color: white;
+	align-items: center;
+	justify-content: center;
+}
+h2{
+	display: flex;
+	justify-content: center;
+	background-color: grey;
+	color: yellow;
+}
+.ubuntu-light body{
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+p{
+	color: white;
+	align-items: center;
+}
+ol li{
+	
+	text-decoration: underline;
+	color: white;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
